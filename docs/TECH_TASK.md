@@ -17,7 +17,7 @@
 
 **Ссылка на GitHub Pages:** https://legalize-nuke-bombs.github.io/
 
-**Ссылка на основной pull request:** [ВСТАВЬТЕ ССЫЛКУ]
+**Ссылка на основной pull request:** https://github.com/legalize-nuke-bombs/legalize-nuke-bombs.github.io/pull/1
 
 ---
 
